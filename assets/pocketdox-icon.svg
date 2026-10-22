@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- PocketDox: Pocket Document. Flat, full-bleed, no shadows or rounded canvas mask. -->
+  <!-- Xcode's app icon catalog needs exported 1024px RGB PNG, not this editable SVG. -->
+  <rect width="1024" height="1024" fill="#17243B"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M354 287 V553 M354 287 Q354 257 384 257 H591 L704 370 V604"
+          stroke="#F7F5F0" stroke-width="55"/>
+    <path d="M591 261 V369 H700" stroke="#C5A980" stroke-width="55"/>
+    <path d="M434 526 H581" stroke="#C5A980" stroke-width="42"/>
+    <path d="M254 608 V685 Q254 795 367 795 H653 Q770 795 770 685 V608"
+          stroke="#F7F5F0" stroke-width="61"/>
+  </g>
+</svg>
